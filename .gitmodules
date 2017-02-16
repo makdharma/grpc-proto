@@ -1,0 +1,7 @@
+[submodule "third_party/protobuf"]
+	path = third_party/protobuf
+	url = https://github.com/google/protobuf.git
+	branch = 3.0.x
+[submodule "instrumentation-proto"]
+	path = instrumentation-proto
+	url = https://github.com/google/instrumentation-proto
